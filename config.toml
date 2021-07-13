@@ -1,4 +1,5 @@
-baseURL = "/"
+#baseURL = "/"
+baseURL = "https://jweaver85.github.io/hugo-docsy-example/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "docsy"
